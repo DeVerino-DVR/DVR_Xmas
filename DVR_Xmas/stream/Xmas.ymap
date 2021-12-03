@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<CMapData>
+  <flags value="2"/>
+  <contentFlags value="65"/>
+  <streamingExtentsMin x="1769.8647460938" y="-1524.9310302734" z="-359.372173309326"/>
+  <streamingExtentsMax x="2570.4289550781" y="-722.3608398438" z="440.679046630859"/>
+  <entitiesExtentsMin x="2169.8647460938" y="-1124.9310302734" z="40.627826690674"/>
+  <entitiesExtentsMax x="2170.4289550781" y="-1122.3608398438" z="40.679046630859"/>
+  <entities>
+    <Item type="CEntityDef">
+      <archetypeName>mp006_s_markergingerbread</archetypeName>
+      <flags value="1572865"/>
+      <position x="2170.4289550781" y="-1124.9310302734" z="40.627826690674"/>
+      <rotation w="0.53311" x="0" y="0" z="-0.84605"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>mp006_s_markergingerbread</archetypeName>
+      <flags value="1572865"/>
+      <position x="2169.8647460938" y="-1122.3608398438" z="40.679046630859"/>
+      <rotation w="0.65941" x="0" y="0" z="-0.75179"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+    <Item type="CEntityDef">
+      <archetypeName>mp006_p_xmastree01x</archetypeName>
+      <flags value="1572865"/>
+      <position x="2169.8791503906" y="-1123.7027587891" z="40.646301269531"/>
+      <rotation w="0.58191" x="0" y="0" z="-0.81325"/>
+      <scaleXY value="1"/>
+      <scaleZ value="1"/>
+      <parentIndex value="-1"/>
+      <lodDist value="500"/>
+      <childLodDist value="500"/>
+      <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+      <numChildren value="0"/>
+      <ambientOcclusionMultiplier value="255"/>
+      <artificialAmbientOcclusion value="255"/>
+    </Item>
+  </entities>
+</CMapData>
